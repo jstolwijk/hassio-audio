@@ -1,7 +1,7 @@
-name: "Raspotify"
-description: "Raspotify"
+name: "Audio"
+description: "Audio"
 version: "0.0.1"
-slug: "raspotify"
+slug: "audio"
 init: false
 arch:
   - aarch64
